@@ -1,9 +1,9 @@
 # HR Payroll System
-    The HR Payroll System is a web-based application for managing employees, payrolls, taxes, claims, and departments. Built with PHP, MySQL, and Bootstrap, it offers an efficient interface for HR and payroll management.
+    The HR Payroll System is a web-based application for managing employees, payrolls, taxes, claims, and departments. Built with PHP, MySQL, and Bootstrap.
 
 ## Features
       Add and manage employees, departments, payrolls, taxes, and claims
-      Dashboard for quick access to recent data 
+      Dashboard for quick access to data 
 
 ## Technologies Used
     PHP, MySQL
@@ -15,7 +15,7 @@
     XAMPP: Download and install XAMPP.
 ## Setup Steps
     Clone the repository:
-    git clone https://github.com/your-username/hr-payroll-system.git
+    git clone https://github.com/seruyange-jojo/hr-payroll-system.git
     
     Move project to XAMPP's htdocs:
     mv hr-payroll-system /path/to/xampp/htdocs/
